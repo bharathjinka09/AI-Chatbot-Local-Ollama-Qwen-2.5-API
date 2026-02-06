@@ -25,7 +25,7 @@ As it is a local model, we have to download Ollama and Qwen2.5 model in local be
 
 3. Run the server:
    ```powershell
-   python server.py
+   uvicorn server:app --reload --host 0.0.0.0 --port 8000
    ```
 
 ## Requirements
