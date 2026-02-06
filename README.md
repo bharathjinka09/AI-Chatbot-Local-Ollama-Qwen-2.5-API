@@ -4,7 +4,7 @@ This project is a simple chatbot server built with Python FastAPI.
 
 ## Prerequsites
 
-As it is a local model, we have to download Ollama and Qwen2.5 model in local before running this API.
+As it is a local model, we have to download Ollama and Qwen2.5 model locally before running this API.
 
 ## Features
 - Chatbot server implementation
@@ -33,5 +33,6 @@ See `requirements.txt` for dependencies.
 
 ## License
 MIT License
+
 
 
