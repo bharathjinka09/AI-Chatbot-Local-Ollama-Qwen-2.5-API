@@ -1,4 +1,4 @@
-# Qwen Chatbot
+# Ollama Qwen-2.5 Chatbot
 
 This project is a simple chatbot server built with Python FastAPI.
 
@@ -33,4 +33,5 @@ See `requirements.txt` for dependencies.
 
 ## License
 MIT License
+
 
